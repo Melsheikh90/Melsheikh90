@@ -1,23 +1,41 @@
-# Hi, I'm Mahmoud 👋
+# Mahmoud Elsheikh — QA Engineer
 
-QA Engineer with commercial experience in mobile and web testing, including iGaming and application support.
+QA Engineer with experience in mobile, web and API testing.
+Background in iGaming systems, payment logic validation and technical support.
 
-## What I do
-- Manual testing (Web & Mobile)
-- API testing (REST)
-- Payment flows, balance/limits logic
-- Working with incidents and user reports
+## 🔧 Skills & Tools
+Postman • Jira • Charles Proxy • Android Studio • SQL • DevTools • GitHub
 
-## Tools
-Jira • Postman • Charles Proxy • Android Studio • SQL • BrowserStack • Figma
+## 📱 Testing Types
+Manual Testing  
+Functional Testing  
+Regression Testing  
+API Testing  
+Mobile Testing  
+Web Testing
 
-## Testing types
-Functional • Regression • API • Mobile • Integration
+## 📂 Projects
 
-## Location
-Moscow, Russia (open to relocation)
+### Yandex Samokat QA Project
+Testing of web, mobile and backend API.
+- Test cases
+- Bug reports
+- API collections
+- Screenshots
 
-## Contacts
-Telegram: @Elsheikh1990  
+👉 https://github.com/Melsheikh90/Yandex_Samokat_QA
+
+### Mobcash iGaming Project (NDA)
+Commercial Android application testing:
+- payment systems validation
+- balance & limits logic
+- regression testing
+
+## 📍 Location
+Moscow, Russia  
+Open to relocation: UAE, Cyprus, Serbia
+
+## 📫 Contact
+Telegram: https://t.me/Elsheikh1990
 Email: m.elsheikh90@gmail.com
 
