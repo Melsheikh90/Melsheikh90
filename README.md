@@ -33,7 +33,7 @@ Commercial Android application testing:
 
 ## 📍 Location
 Moscow, Russia  
-Open to relocation: UAE, Cyprus, Serbia
+Open to relocation
 
 ## 📫 Contact
 Telegram: https://t.me/Elsheikh1990
